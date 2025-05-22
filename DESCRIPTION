@@ -1,10 +1,10 @@
 Package: apm
 Title: Averaged Prediction Models
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
   c(person("Thomas", "Leavitt", email = "thomas.leavitt@baruch.cuny.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-3668-6409")),
-    person("Laura", "Hatfield", email = "hatfield@hcp.med.harvard.edu", role = c("aut"),
+    person("Laura", "Hatfield", role = c("aut"),
            comment = c(ORCID = "0000-0003-0366-3929")),
     person("Noah", "Greifer", email = "ngreifer@iq.harvard.edu", role = c("aut"),
            comment = c(ORCID = "0000-0003-3067-7154")))
@@ -19,13 +19,14 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 LazyData: true
 VignetteBuilder: knitr
-URL: https://github.com/tl2624/apm, https://tl2624.github.io/apm/
+URL: https://github.com/tl2624/apm/, https://tl2624.github.io/apm/
 BugReports: https://github.com/tl2624/apm/issues
 NeedsCompilation: no
-Packaged: 2025-03-09 03:17:30 UTC; ThomasLeavitt
-Author: Thomas Leavitt [aut, cre] (<https://orcid.org/0000-0002-3668-6409>),
-  Laura Hatfield [aut] (<https://orcid.org/0000-0003-0366-3929>),
-  Noah Greifer [aut] (<https://orcid.org/0000-0003-3067-7154>)
+Packaged: 2025-05-22 19:01:33 UTC; ThomasLeavitt
+Author: Thomas Leavitt [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-3668-6409>),
+  Laura Hatfield [aut] (ORCID: <https://orcid.org/0000-0003-0366-3929>),
+  Noah Greifer [aut] (ORCID: <https://orcid.org/0000-0003-3067-7154>)
 Maintainer: Thomas Leavitt <thomas.leavitt@baruch.cuny.edu>
 Repository: CRAN
-Date/Publication: 2025-03-10 16:50:17 UTC
+Date/Publication: 2025-05-22 20:00:02 UTC

@@ -11,7 +11,7 @@ In panel data settings, specifies set of candidate models, fits them to data fro
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/tl2624/apm}
+  \item \url{https://github.com/tl2624/apm/}
   \item \url{https://tl2624.github.io/apm/}
   \item Report bugs at \url{https://github.com/tl2624/apm/issues}
 }
@@ -22,7 +22,7 @@ Useful links:
 
 Authors:
 \itemize{
-  \item Laura Hatfield \email{hatfield@hcp.med.harvard.edu} (\href{https://orcid.org/0000-0003-0366-3929}{ORCID})
+  \item Laura Hatfield (\href{https://orcid.org/0000-0003-0366-3929}{ORCID})
   \item Noah Greifer \email{ngreifer@iq.harvard.edu} (\href{https://orcid.org/0000-0003-3067-7154}{ORCID})
 }
 
